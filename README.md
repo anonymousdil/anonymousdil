@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on backend development!!<br>I'm good with frontend development and IoT systems.<br>I would love to collaborate on Open-Source Projects.<br>Fun Fact - The first "computer bug" was a literal moth found trapped in Relay #70 of the Harvard Mark II computer on September 9, 1947.<br>I need help with finding a proper career path.<br>Ask me about IoT and you'll be stuck for hours!!<br>He/Him.
+### I'm currently working on backend development!!<br>I'm good with frontend development and IoT systems.<br>I would love to collaborate on Open-Source Projects.<br>Fun Fact - The first "computer bug" was a literal moth found trapped in Relay #70 of the Harvard Mark II computer on September 9, 1947.<br>I need help with finding a proper career path.<br>Ask me about IoT and you'll be stuck for hours!!<br>He/Him.
 
 
 ## 🌐 Socials:
